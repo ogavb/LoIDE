@@ -1,13 +1,13 @@
 {
-    "port"  	:
+    "port"      :
     {
-        "http"		: 8084,
-        "https"		: 8085
+        "http"      : 8084,
+        "https"     : 8085
     },
-    "path"		:
+    "path"      :
     {
-        "key"		: "",
-        "cert"		: ""
+        "key"       : "",
+        "cert"      : ""
     },
-    "max_age"	: 31536000
+    "max_age"   : 31536000
 }
